@@ -1,30 +1,32 @@
-.logo{
-width: 150px;
-height: 50px;
+.logo {
+    width: 150px;
+    height: 50px;
 }
-body{
+
+body {
     font-family: 'Fira Sans', sans-serif;
 }
 
-.btn-success{
+.btn-success {
     border-radius: 50px;
-    padding:0px 15px;
+    padding: 0px 15px;
     background-color: #21B573;
-
 }
 
-
-.bg-color{
+.bg-color {
     background-color: #f0fff0;
 }
-.body-img{
-    height:300px;
-    width:500px;
+
+.body-img {
+    height: 300px;
+    width: 500px;
 }
-.header-font{
+
+.header-font {
     color: green;
 }
-.red-font{
+
+.red-font {
     color: red;
 }
 
@@ -59,29 +61,33 @@ body{
     line-height: 36px;
     font-weight: 500;
 }
-.about-font{
+
+.about-font {
     text-align: center;
-    margin:100px 10px 100px 0px;
+    margin: 100px 10px 100px 0px;
 }
 
-
-.last-img{
+.last-img {
     margin-left: 150px;
 }
-.card img{
-    width:325px;
-    height:315px;
-    margin: 0 auto;
-    margin-top: 10px;
 
-}
-.last-bg{
-    background-color:#282531;
+footer {
+    background-color: #282531;
     color: white;
     margin-top: 100px;
     padding: 30px 20px;
 }
 
-.icon{
-    height: 25px;
+.courses .icon {
+    height: 20px;
+}
+
+.courses .small-dtl p {
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.courses .small-dtl .icon-people {
+    margin-left: 30px;
 }
